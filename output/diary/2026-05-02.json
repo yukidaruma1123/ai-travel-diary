@@ -1,0 +1,51 @@
+{
+  "_meta": {
+    "generated_at": "2026-05-02T10:34:46.587602",
+    "target_date": "2026-05-02",
+    "location_id": "kaikou_temple",
+    "food_name": "霧蒸し膳"
+  },
+  "diary": {
+    "date_fictional": "皐煙月 2日",
+    "location_name": "海香寺",
+    "region_name": "蘭華港",
+    "text_jp": "潮が満ちる刻限、石段を登る。百八段。汗が首筋を伝い、潮風がそれを攫う。白壁に朱の柱、異国の寺院が陽炎の向こうに揺れていた。\n\n門をくぐれば線香の煙。沈香と潮の匂いが混じり、不思議と懐かしい。本堂では機械仕掛けの観音像が、蒸気を吐きながらゆるりと首を巡らせていた。歯車の軋みが、経を読む僧の声と重なる。\n\n「船乗りの守り本尊でしてな」\n\n堂守の老婆が茶を差し出した。器は温かく、指先に染みる。\n\n「この観音様、嵐の前には必ず泣くのですよ。涙は油ですがね」\n\n師匠が言っていた。「機械が泣くとき、それは警告か、祈りか」と。\n\n遠く、港に汽笛が響く。鐘が一つ、鳴る。蒸気と香煙の向こうに、海が光っていた。\n\n機械の涙を、人は信じるべきなのだろうか。",
+    "text_en": "At the hour of high tide, I climbed the stone steps. One hundred and eight. Sweat traced my neck; the sea breeze stole it away. White walls, vermillion pillars—the foreign temple shimmered through the heat haze.\n\nBeyond the gate, incense smoke. Agarwood mingled with salt air, strangely nostalgic. In the main hall, a mechanical Kannon statue slowly turned its head, exhaling steam. The grinding of gears harmonized with the monks' chanting.\n\n\"She is the guardian of sailors,\" said an old woman, offering tea. The cup warmed my fingers.\n\n\"Before every storm, the Kannon weeps. Her tears are oil, but tears nonetheless.\"\n\nMy master once said: \"When a machine weeps, is it warning or prayer?\"\n\nDistant, a ship's whistle echoed in the harbor. A bell tolled once. Beyond the steam and incense smoke, the sea was shining.\n\nShould we believe in the tears of machines?",
+    "caption_x": "潮満ちる午後、異国の寺に登れば機械仕掛けの観音が静かに首を巡らせていた。歯車の音と読経が重なり、線香と潮の香りが混じる。老婆は言う、嵐の前には観音が泣くのだと。蒸気の涙、油の涙。遠く汽笛、近く鐘の音。",
+    "caption_instagram": "皐煙月 2日\n蘭華港・海香寺\n\n石段を百八つ登り終えたとき\n潮風が汗を攫っていった\n\n白壁と朱柱の堂に\n蒸気を吐く観音が坐す\n\n嵐の前には泣くのだと\n堂守の老婆が教えてくれた\n涙は油だが、涙には違いない\n\n歯車は正直だ\n噛み合わなければ、ちゃんと軋む\n\n遠い汽笛、近い鐘の音\n機械と祈りの狭間で\n海が光っていた",
+    "image_prompts": [
+      {
+        "scene": "メインの風景",
+        "prompt_en": "landscape scene of a hilltop temple overlooking a tropical harbor, white plastered walls with vermillion wooden pillars, incense smoke drifting in salty sea breeze, distant ocean view with ships, warm afternoon sunlight, steampunk oriental architecture, fantasy world, detailed illustration, cinematic lighting, concept art style, highly detailed",
+        "negative_prompt": "low quality, blurry, modern, realistic photo, text, watermark",
+        "generated_image": "output\\images\\2026-05-02\\scene_0_メインの風景.png"
+      },
+      {
+        "scene": "料理・食事",
+        "prompt_en": "fantasy food illustration of traditional steamed fish dish in black lacquerware, white steam rising like mist, fresh river fish with glossy skin, green mountain vegetables, concentrated aroma visible as wisps, elegant presentation, detailed, warm lighting, top-down view, artbook style",
+        "negative_prompt": "low quality, blurry, modern, text, watermark",
+        "generated_image": "output\\images\\2026-05-02\\scene_1_料理・食事.png"
+      },
+      {
+        "scene": "人物・生活感",
+        "prompt_en": "fantasy traveler with a pocket watch standing in temple courtyard, mechanical Kannon statue with steam vents in background, elderly shrine keeper offering tea, white walls and vermillion columns, incense smoke, warm afternoon light, detailed illustration, storybook style, steampunk oriental aesthetic",
+        "negative_prompt": "low quality, blurry, modern, text, watermark, nsfw",
+        "generated_image": "output\\images\\2026-05-02\\scene_2_人物・生活感.png"
+      }
+    ],
+    "hashtags_jp": [
+      "#架空旅日記",
+      "#霧鋼國",
+      "#ファンタジー旅行",
+      "#蒸気と祈り",
+      "#世界観"
+    ],
+    "hashtags_en": [
+      "#FantasyTravel",
+      "#WorldBuilding",
+      "#ImaginaryWorld",
+      "#FictionalDiary",
+      "#Steampunk"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+# 環境変数・機密情報（絶対にコミットしない）
+.env
+*.key
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# 生成物（容量が大きいため除外）
+output/images/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# ログ
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode（settings.jsonはチーム共有するので除外しない）
+# .vscode/

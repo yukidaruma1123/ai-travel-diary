@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-30T11:01:36.277467",
+    "target_date": "2026-04-30",
+    "location_id": "chinmoku_shrine",
+    "food_name": "歯車餅"
+  },
+  "diary": {
+    "date_fictional": "卯機月 30日",
+    "location_name": "沈黙神社",
+    "region_name": "鋼心湖畔地区",
+    "text_jp": "半分水没した鳥居を潜る。冷たい。湖水が膝を刺す。苔の匂いが鼻腔を満たし、どこか錆びた鉄の気配が混じる。正午の陽光が社殿の隙間から差し込み、水面に砕けた光が天井を這う。声は禁忌。だから皆、金属板を打つ。カン、カン、と願いが重なり、沈黙の中で鳴り響く祈りの輪唱。社守の老婆が私の懐中時計を見て、無言で首を傾げた。筆談で問う。「その時計、十三を刻むか」。背筋が凍る。私は頷いた。老婆は薄く笑い、銀色の鈴を一つ、掌に乗せてきた。「月が満ちる夜、湖底を覗け」と。師匠はかつて言った。「沈黙は嘘をつかない。だが真実を語るとも限らん」と。帰り道、参道脇の茶屋で歯車餅を求めた。真鍮色の餡が舌に溶け、仄かな金属の甘みが広がる。美味いものは、正直だ。——師匠もここを訪れたのか。そして、何を見たのか。",
+    "text_en": "I waded through the half-submerged torii gate. The lake water bit my knees with cold. The scent of moss filled my nostrils, mingled with a faint rust of iron. Noon light pierced the shrine's gaps, scattering across the water, painting the ceiling in liquid gold. Speech is forbidden here. So the faithful strike metal plates instead—clang, clang—prayers ringing in layered silence. An old shrine keeper noticed my pocket watch and tilted her head wordlessly. Through brushed notes, she asked: \"Does that watch mark thirteen?\" My spine went cold. I nodded. She smiled thinly and placed a silver bell in my palm. \"When the moon is full, peer into the lake's depths,\" she wrote. My master once said, \"Silence tells no lies, but that doesn't mean it speaks the truth.\" On my way back, I bought gear-shaped mochi from a teahouse. The brass-colored filling melted on my tongue with a subtle metallic sweetness. Honest food, honestly good. Did my master visit here too? And if so—what did he see?",
+    "caption_x": "卯機月三十日、沈黙神社。声なき祈りが金属板で歌う場所。老婆が銀の鈴をくれた。「月が満ちたら、湖底を覗け」と。師匠の影が、また一歩近づいた気がする。歯車餅の甘さだけが、今は確かなものだった。",
+    "caption_instagram": "沈黙神社、正午。\n\n半分沈んだ鳥居を潜り、声を殺して参る。\n願いは金属板を打ち鳴らすことで神に届く。\n\n社守の老婆が私の時計を見て問うた。\n「十三を刻むか」\n\n師匠の痕跡が、ここにもあった。\n銀の鈴と、謎めいた言葉を残して。\n\n帰路、歯車餅を頬張る。\n真鍮色の餡が舌に溶ける。\n歯車は正直だ。この甘さも、嘘じゃない。",
+    "image_prompts": [
+      {
+        "scene": "メインの風景",
+        "prompt_en": "landscape scene of ancient shrine built into misty lakeside cliff, half-submerged torii gate in still water, moss-covered stone steps, silver bells hanging from eaves, ethereal noon sunlight piercing through gaps creating god rays on water surface, mystical thin fog, reflection on lake, fantasy Japanese shrine, steampunk elements subtle, concept art style, cinematic lighting, highly detailed illustration, muted colors with silver and green accents",
+        "negative_prompt": "low quality, blurry, modern buildings, realistic photo, text, watermark, bright colors, cherry blossoms",
+        "generated_image": "output\\images\\2026-04-30\\scene_0_メインの風景.png"
+      },
+      {
+        "scene": "料理・食事",
+        "prompt_en": "fantasy food illustration of gear-shaped mochi sweets on ceramic plate, brass-golden colored bean paste filling visible from bite mark, intricate cogwheel pattern pressed into soft rice cake surface, dusted with white powdered sugar, palm-sized delicate confection, warm ambient lighting, traditional Japanese teahouse setting with steam, top-down three-quarter view, artbook style illustration, highly detailed",
+        "negative_prompt": "low quality, blurry, modern, text, watermark, western food, chocolate",
+        "generated_image": "output\\images\\2026-04-30\\scene_1_料理・食事.png"
+      },
+      {
+        "scene": "人物・生活感",
+        "prompt_en": "fantasy traveler standing in shallow water before ancient shrine, wearing worn traveling coat and boots, holding pocket watch in left hand, elderly shrine keeper woman in traditional robes offering small silver bell, moss-covered stone walls, mysterious thin fog, silver light filtering through, other pilgrims striking metal prayer plates in background, detailed storybook illustration style, muted atmospheric colors",
+        "negative_prompt": "low quality, blurry, modern clothing, text, watermark, nsfw, anime style",
+        "generated_image": "output\\images\\2026-04-30\\scene_2_人物・生活感.png"
+      }
+    ],
+    "hashtags_jp": [
+      "#架空旅日記",
+      "#霧鋼國",
+      "#ファンタジー世界",
+      "#沈黙神社",
+      "#世界観創作"
+    ],
+    "hashtags_en": [
+      "#FantasyTravel",
+      "#WorldBuilding",
+      "#ImaginaryWorld",
+      "#FictionalDiary",
+      "#FantasyShrine"
+    ]
+  },
+  "_post_results": {
+    "instagram": {
+      "post_id": "18523358047077533",
+      "status": "success"
+    },
+    "posted_at": "2026-05-02T10:04:50.719368"
+  }
+}

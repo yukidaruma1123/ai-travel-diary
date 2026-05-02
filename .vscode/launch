@@ -1,0 +1,50 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "🌍 Step1: World Bible 新規生成",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/generate_world.py",
+      "console": "integratedTerminal",
+      "envFile": "${workspaceFolder}/.env",
+      "args": []
+    },
+    {
+      "name": "🔧 Step1: World Bible 拡張モード",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/generate_world.py",
+      "console": "integratedTerminal",
+      "envFile": "${workspaceFolder}/.env",
+      "args": ["--expand", "--input", "world_bible.yaml"]
+    },
+    {
+      "name": "📖 Step2: 日記生成 (準備中)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/diary_engine.py",
+      "console": "integratedTerminal",
+      "envFile": "${workspaceFolder}/.env",
+      "args": ["--world", "world_bible.yaml"]
+    },
+    {
+      "name": "🖼️ Step3: 画像生成 (準備中)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/image_engine.py",
+      "console": "integratedTerminal",
+      "envFile": "${workspaceFolder}/.env",
+      "args": []
+    },
+    {
+      "name": "📤 Step4: SNS投稿 (準備中)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/post_engine.py",
+      "console": "integratedTerminal",
+      "envFile": "${workspaceFolder}/.env",
+      "args": []
+    }
+  ]
+}

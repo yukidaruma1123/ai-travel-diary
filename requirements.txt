@@ -1,0 +1,25 @@
+# AI旅日記 Project #5 — Python依存パッケージ
+# pip install -r requirements.txt
+
+# ── Step 1: World Bible生成 ───────────────
+anthropic>=0.25.0
+pyyaml>=6.0
+
+# ── Step 2: 日記生成 ──────────────────────
+# (Step1と共通)
+
+# ── Step 3: 画像生成 ──────────────────────
+requests>=2.31.0
+Pillow>=10.0.0
+openai>=1.12.0          # DALL·E 3用
+
+# ── Step 4: SNS投稿 ───────────────────────
+tweepy>=4.14.0          # X (Twitter)
+
+# ── Step 5: DB・自動化 ───────────────────
+supabase>=2.3.0
+python-dotenv>=1.0.0
+
+# ── 開発用 ────────────────────────────────
+black>=24.0.0
+pylint>=3.0.0
