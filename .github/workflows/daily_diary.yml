@@ -10,6 +10,9 @@ on:
     - cron: "0 22 * * *"   # UTC 22:00 = JST 07:00
   workflow_dispatch:        # 手動実行ボタンも有効化
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # Node.js 24を使用
+
 jobs:
   post-diary:
     runs-on: ubuntu-latest
