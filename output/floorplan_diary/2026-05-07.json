@@ -1,0 +1,72 @@
+{
+  "_meta": {
+    "generated_at": "2026-05-07T19:35:36.121210",
+    "target_date": "2026-05-07",
+    "settings": {
+      "theme_name": "魔法文明",
+      "theme_desc": "魔法と錬金術が発達した中世風世界",
+      "theme_mood": "arcane, mystical, medieval, glowing runes",
+      "shape_name": "クモの巣",
+      "shape_desc": "web-like radial pattern, thin corridors connecting circular nodes",
+      "rooms": "炎の寝室、幻影の回廊、儀式の間、召喚の間、宝物庫、武器庫、食事の広間、入口の間"
+    }
+  },
+  "concept": {
+    "theme": "魔法文明",
+    "shape": "クモの巣",
+    "resident": "古代魔法を研究する老賢者と、彼に仕える7体の精霊たち。賢者は300年以上この塔に住み、禁断の召喚術の解読に人生を捧げている。",
+    "story": "この塔は千年前、蜘蛛の女神に仕えた魔術師団が建造した儀式施設だった。中央の召喚の間から放射状に伸びる8本の回廊は、8つの魔法元素を司る結界を形成している。現在の住人である老賢者は、この塔の真の目的——異界との門を開く鍵——を解き明かそうとしている。"
+  },
+  "image_prompts": [
+    {
+      "scene": "間取り図（俯瞰）",
+      "style": "fantasy_illustration",
+      "prompt_en": "Fantasy architectural floor plan, top-down view, web-like radial pattern with central circular Summoning Chamber connected by thin glowing corridors to 8 circular rooms: Flame Bedroom, Illusion Corridor, Ritual Hall, Treasury, Armory, Dining Hall, Entrance Hall. Arcane runes decorating borders, mystical purple and gold color scheme, medieval parchment texture, ornate compass rose, labeled room names in elegant script. Fictional magical tower blueprint.",
+      "negative": "photo, realistic, 3D render, dark background",
+      "generated_image": "output\\floorplan_images\\2026-05-07\\00_間取り図_俯瞰.png"
+    },
+    {
+      "scene": "外観",
+      "style": "fantasy_illustration",
+      "prompt_en": "Mystical medieval wizard tower exterior, octagonal spire with web-like architecture, thin stone bridges connecting circular turrets, glowing arcane runes carved into walls, purple magical energy flowing between sections, moonlit night sky, floating crystals, gothic arched windows emitting warm light, mysterious fog at base, fantasy illustration style.",
+      "negative": "floor plan, blueprint, top-down, interior",
+      "generated_image": "output\\floorplan_images\\2026-05-07\\01_外観.png"
+    },
+    {
+      "scene": "メインルーム内観",
+      "style": "fantasy_illustration",
+      "prompt_en": "Interior of magical Summoning Chamber, circular domed room with intricate arcane circles on floor, eight corridors radiating outward, floating grimoires, glowing runes on obsidian pillars, ethereal spirits hovering, elderly wizard in robes studying ancient texts, purple and amber magical lighting, mystical medieval atmosphere, ornate stone architecture.",
+      "negative": "floor plan, blueprint, top-down, exterior",
+      "generated_image": "output\\floorplan_images\\2026-05-07\\02_メインルーム内観.png"
+    }
+  ],
+  "captions": {
+    "instagram": "【架空間取り図】蜘蛛の女神に捧げられた魔術師の塔\n\n中央の召喚の間から8本の回廊が放射状に伸びる、クモの巣のような間取り。\n\n300歳を超える老賢者が7体の精霊と暮らすこの塔には、千年前の秘密が眠っているとか…\n\nあなたならどの部屋に住みたいですか？",
+    "x": "蜘蛛の女神に仕えた魔術師団が建てた塔の間取り図。中央の召喚の間から8つの部屋へ伸びるクモの巣構造。300歳の老賢者が禁断の術を研究中。炎の寝室と宝物庫、どっちがいい？"
+  },
+  "hashtags": {
+    "jp": [
+      "#架空間取り図",
+      "#ファンタジー建築",
+      "#異世界住宅",
+      "#魔法使いの家",
+      "#間取り妄想",
+      "#創作建築"
+    ],
+    "en": [
+      "#FantasyFloorPlan",
+      "#ImaginaryArchitecture",
+      "#WorldBuilding",
+      "#WizardTower",
+      "#FantasyArt",
+      "#MagicalHome"
+    ]
+  },
+  "_post_results": {
+    "instagram": {
+      "post_id": "18101700109822054",
+      "status": "success"
+    },
+    "posted_at": "2026-05-07T19:37:50.530061"
+  }
+}
