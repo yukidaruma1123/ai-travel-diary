@@ -49,7 +49,7 @@ jobs:
         run: python generate_world.py
 
       # ── 6. メインパイプライン実行 ──
-      - name: 🚀 Run diary pipeline
+      - name: 🚀 Run pipeline
         env:
           ANTHROPIC_API_KEY:          ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY:             ${{ secrets.OPENAI_API_KEY }}
@@ -62,7 +62,7 @@ jobs:
           X_ACCESS_TOKEN_SECRET:      ${{ secrets.X_ACCESS_TOKEN_SECRET }}
           PINTEREST_ACCESS_TOKEN:     ${{ secrets.PINTEREST_ACCESS_TOKEN }}
           PINTEREST_BOARD_ID:         ${{ secrets.PINTEREST_BOARD_ID }}
-        run: python orchestrator.py --sns instagram
+        run: python orchestrator_floorplan.py --sns instagram
 
       # ── 7. ログをアーティファクトとして保存 ──
       - name: 📋 Upload logs
