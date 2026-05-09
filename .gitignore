@@ -11,12 +11,8 @@ __pycache__/
 dist/
 build/
 
-# 生成物（容量が大きいため除外）
-output/images/
-*.png
-*.jpg
-*.jpeg
-*.webp
+# 生成物（大容量ファイル）
+output/
 
 # ログ
 logs/
