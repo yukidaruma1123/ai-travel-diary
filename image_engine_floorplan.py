@@ -31,10 +31,16 @@ OUTPUT_DIR = Path("output/floorplan_images")
 # スタイル別のプロンプト強化
 # ══════════════════════════════════════════
 
+NO_TEXT = (
+    "no text, no letters, no words, no labels, no writing, "
+    "no annotations, no captions, no titles, no numbers, "
+    "no signs, no inscriptions, no typography anywhere"
+)
+
 STYLE_ENHANCERS = {
     "architectural_blueprint": (
         "architectural floor plan drawing, white background, "
-        "clean black ink lines, room labels in elegant font, "
+        "clean black ink lines, "
         "top-down orthographic view, precise technical drawing style, "
         "dotted walls, dimension lines, north arrow indicator, "
         "aged parchment paper texture, hand-drawn feel"
@@ -94,7 +100,7 @@ def enhance_prompt(prompt_data: dict, client: anthropic.Anthropic) -> str:
     scene      = prompt_data.get("scene", "")
     style_enh  = STYLE_ENHANCERS.get(style, STYLE_ENHANCERS["fantasy_illustration"])
 
-    full = f"{base}, {style_enh}, {QUALITY_SUFFIX}"
+    full = f"{base}, {style_enh}, {QUALITY_SUFFIX}, {NO_TEXT}"
     return full[:1000]
 
 

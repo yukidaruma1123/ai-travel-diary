@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "generated_at": "2026-05-08T21:57:50.873262",
+    "target_date": "2026-05-04",
+    "settings": {
+      "theme_name": "氷河洞窟",
+      "theme_desc": "氷河の内部に自然形成された居住空間",
+      "theme_mood": "ice cave, glacier blue, frozen waterfall, crystal clear",
+      "shape_name": "無限大",
+      "shape_desc": "figure-eight or infinity symbol shaped floor plan",
+      "rooms": "闇の瞑想室、腐食の実験室、浮遊する寝台の部屋、時間巻き戻し室、暗号解読室"
+    }
+  },
+  "concept": {
+    "theme": "氷河洞窟",
+    "shape": "無限大",
+    "resident": "永遠の氷を研究する時間魔術師エルヴィナ。彼女は凍りついた過去の記憶を解読し、失われた文明の秘密を探求している。",
+    "story": "この住居は一万年前の氷河が自然に∞の形を刻んだ奇跡の空間。エルヴィナは氷壁に封じられた古代暗号を解読するため、ここに居を構えた。氷河が溶けることのないよう、彼女は毎夜「時間巻き戻し室」で時を操り、永遠の冬を維持している。"
+  },
+  "image_prompts": [
+    {
+      "scene": "間取り図（俯瞰）",
+      "style": "fantasy_illustration",
+      "prompt_en": "Fantasy floor plan illustration, infinity symbol shaped glacier cave dwelling, top-down view, ice blue and crystal white color palette. Rooms labeled: Dark Meditation Chamber, Corrosion Laboratory, Floating Bed Chamber, Time Reversal Room, Cipher Decoding Room. Translucent ice walls with aurora reflections, frozen waterfall features between rooms, glowing runes on floor. Decorative ice crystals at intersections, ethereal mist effects, magical atmosphere. Fictional architectural blueprint style with ornate borders.",
+      "negative": "photo, realistic, 3D render, dark background",
+      "generated_image": "output\\floorplan_images\\2026-05-04\\00_間取り図_俯瞰.png"
+    },
+    {
+      "scene": "外観",
+      "style": "fantasy_illustration",
+      "prompt_en": "Majestic glacier cave entrance glowing with ethereal blue light, massive frozen waterfall framing crystalline doorway, aurora borealis dancing above ice peaks. Crystal clear ice formations sparkle like diamonds, figure-eight shaped cave visible through translucent glacier walls. Snow-covered mountain backdrop, mystical winter wonderland, fantasy concept art style, vibrant glacier blues and purples.",
+      "negative": "floor plan, blueprint, top-down, interior",
+      "generated_image": "output\\floorplan_images\\2026-05-04\\01_外観.png"
+    },
+    {
+      "scene": "メインルーム内観",
+      "style": "fantasy_illustration",
+      "prompt_en": "Time Reversal Room interior, circular ice chamber with floating hourglasses and frozen clock mechanisms suspended in air. Walls of crystal clear glacier ice showing trapped ancient artifacts, spiral staircase of pure ice, glowing temporal runes on floor. Soft blue and silver lighting, ethereal mist, magical time magic effects, fantasy illustration style.",
+      "negative": "floor plan, blueprint, top-down, exterior",
+      "generated_image": "output\\floorplan_images\\2026-05-04\\02_メインルーム内観.png"
+    }
+  ],
+  "captions": {
+    "instagram": "氷河の心臓に眠る、無限大の住処。\n\n一万年の時を超えて形成された\n∞型の氷の洞窟には、\n時間を操る魔術師が静かに暮らしている。\n\n凍りついた滝を渡り、\nオーロラの光が照らす廊下を抜けると、\n過去と未来が交差する部屋へたどり着く。",
+    "x": "永遠の氷河に刻まれた∞の住居。時間魔術師は凍った記憶を解読しながら、溶けることのない冬を守り続けている。氷壁に映るオーロラだけが、ここでは時計の代わり。"
+  },
+  "hashtags": {
+    "jp": [
+      "#架空間取り図",
+      "#ファンタジー建築",
+      "#異世界住宅",
+      "#氷の城",
+      "#架空建築"
+    ],
+    "en": [
+      "#FantasyFloorPlan",
+      "#ImaginaryArchitecture",
+      "#WorldBuilding",
+      "#GlacierDwelling",
+      "#MagicalHome"
+    ]
+  }
+}

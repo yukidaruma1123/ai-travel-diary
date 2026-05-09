@@ -1,0 +1,64 @@
+{
+  "_meta": {
+    "generated_at": "2026-05-08T21:52:37.043939",
+    "target_date": "2026-05-01",
+    "settings": {
+      "theme_name": "砂漠遺跡",
+      "theme_desc": "古代遺跡に住み着いた砂漠の民",
+      "theme_mood": "desert ruins, sandstone, carved cliff, ancient",
+      "shape_name": "地下迷宮",
+      "shape_desc": "underground labyrinth, multiple levels connected by staircases",
+      "rooms": "恐怖の具現化室、図書室、契約の間、不死の研究室、夢見の間"
+    }
+  },
+  "concept": {
+    "theme": "砂漠遺跡",
+    "shape": "地下迷宮",
+    "resident": "古代の禁術を研究し続ける不死の錬金術師ザハル。砂嵐が吹き荒れる夜にだけ地上に姿を現し、旅人に謎めいた契約を持ちかける。",
+    "story": "かつてこの地には栄華を極めた王国があり、この迷宮は王家の秘術師たちの研究施設だった。王国が滅びた後、ザハルはこの遺跡を発見し、数百年かけて自らの住処へと改造した。今も彼は地下深くで不死の完成を目指し、訪れる者の恐怖と夢を糧に研究を続けている。"
+  },
+  "image_prompts": [
+    {
+      "scene": "間取り図（俯篰）",
+      "style": "fantasy_illustration",
+      "prompt_en": "Fantasy architectural floor plan of an underground labyrinth dwelling in desert ruins, top-down view, ornate sandstone walls, multiple levels connected by spiral staircases. Rooms labeled: Chamber of Manifested Fears, Ancient Library, Hall of Contracts, Immortality Laboratory, Dream Chamber. Decorated borders with hieroglyphic patterns, warm amber and terracotta colors, aged parchment texture, mystical glow from corridors, fictional fantasy location, detailed room layouts with ancient symbols.",
+      "negative": "photo, realistic, 3D render, dark background",
+      "generated_image": "output\\floorplan_images\\2026-05-01\\00_間取り図_俯篰.png"
+    },
+    {
+      "scene": "外観",
+      "style": "fantasy_illustration",
+      "prompt_en": "Majestic ancient desert ruins exterior at golden hour, massive carved sandstone cliff face with hidden entrance, weathered hieroglyphics, sand dunes surrounding, mysterious doorway carved into rock, ancient pillars half-buried in sand, warm orange and gold palette, dramatic lighting, fantasy illustration style, ethereal atmosphere, fictional archaeological site.",
+      "negative": "floor plan, blueprint, top-down, interior",
+      "generated_image": "output\\floorplan_images\\2026-05-01\\01_外観.png"
+    },
+    {
+      "scene": "メインルーム内観",
+      "style": "fantasy_illustration",
+      "prompt_en": "Interior of mystical Immortality Laboratory inside desert ruins, ancient sandstone chamber with carved walls, bubbling alchemical equipment, floating golden orbs, scrolls and grimoires scattered, mysterious glowing runes, hourglass with flowing sand, warm candlelight mixed with ethereal blue glow, ornate columns, fantasy illustration style, atmospheric and mysterious.",
+      "negative": "floor plan, blueprint, top-down, exterior",
+      "generated_image": "output\\floorplan_images\\2026-05-01\\02_メインルーム内観.png"
+    }
+  ],
+  "captions": {
+    "instagram": "砂漠の遺跡、その地下深くに広がる迷宮。\n\n古代王国の秘術師たちが残した研究施設を\n不死の錬金術師が数百年かけて住処へと変えた。\n\n恐怖の具現化室、契約の間、夢見の間…\nそれぞれの部屋が主の研究を支えている。\n\nもしここを訪れたら、あなたは何と契約を交わす？",
+    "x": "砂漠遺跡の地下に眠る錬金術師の迷宮。恐怖と夢を糧に不死を研究し続ける者の住処。螺旋階段で繋がれた五つの部屋、あなたならどこから探索する？"
+  },
+  "hashtags": {
+    "jp": [
+      "#架空間取り図",
+      "#ファンタジー建築",
+      "#異世界住宅",
+      "#砂漠遺跡",
+      "#地下迷宮",
+      "#錬金術師の部屋"
+    ],
+    "en": [
+      "#FantasyFloorPlan",
+      "#ImaginaryArchitecture",
+      "#WorldBuilding",
+      "#DesertRuins",
+      "#FantasyHome"
+    ]
+  }
+}

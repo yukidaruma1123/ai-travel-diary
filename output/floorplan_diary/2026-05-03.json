@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "generated_at": "2026-05-08T21:56:12.265503",
+    "target_date": "2026-05-03",
+    "settings": {
+      "theme_name": "火山島",
+      "theme_desc": "活火山の火口付近に築かれた居住地",
+      "theme_mood": "volcanic island, obsidian walls, lava glow, ash sky",
+      "shape_name": "円形",
+      "shape_desc": "perfectly circular floor plan, radial rooms like pie slices",
+      "rooms": "時間巻き戻し室、瞑想の間、従者の部屋、次元の裂け目、転移陣の間、影の書斎、秘密の二重扉"
+    }
+  },
+  "concept": {
+    "theme": "火山島",
+    "shape": "円形",
+    "resident": "時を操る力を持つ火山の守護者「灰燼のヴォルカニア」。彼女は千年前の大噴火で滅びた島民たちの記憶を守り、次元の裂け目から現れる影の来訪者たちをもてなしている。",
+    "story": "この円形の居住地は活火山の火口縁に建てられ、黒曜石の壁が常に溶岩の光を反射している。中央の転移陣の間を起点に、時間巻き戻し室では過去の噴火を何度でも観測でき、秘密の二重扉の先には島の真の歴史が眠る。灰の空の下、この家は過去・現在・未来を繋ぐ結節点として、永遠に燃え続けている。"
+  },
+  "image_prompts": [
+    {
+      "scene": "間取り図（俯瞰）",
+      "style": "fantasy_illustration",
+      "prompt_en": "Fantasy floor plan illustration, top-down view of a perfectly circular dwelling on volcanic island crater rim. Radial pie-slice rooms around central Teleportation Circle Chamber. Rooms labeled: Time Reversal Room, Meditation Hall, Servant Quarters, Dimensional Rift, Shadow Study, Secret Double Door. Obsidian black walls with orange lava glow veins. Decorative volcanic runes, ash particles floating. Rich warm colors, crimson and gold accents, mystical atmosphere. Fictional fantasy architecture diagram style.",
+      "negative": "photo, realistic, 3D render, dark background",
+      "generated_image": "output\\floorplan_images\\2026-05-03\\00_間取り図_俯瞰.png"
+    },
+    {
+      "scene": "外観",
+      "style": "fantasy_illustration",
+      "prompt_en": "Majestic circular obsidian fortress perched on active volcano crater edge, fantasy illustration. Glossy black volcanic glass walls reflecting orange lava rivers below. Ash-filled grey sky with embers floating upward. Radial tower spires like crown points. Glowing magma channels surrounding foundation. Dramatic lighting, cinematic composition, fictional volcanic island dwelling, vibrant warm palette.",
+      "negative": "floor plan, blueprint, top-down, interior",
+      "generated_image": "output\\floorplan_images\\2026-05-03\\01_外観.png"
+    },
+    {
+      "scene": "メインルーム内観",
+      "style": "fantasy_illustration",
+      "prompt_en": "Interior of Time Reversal Room in volcanic obsidian dwelling, fantasy illustration. Circular chamber with swirling temporal vortex in center, frozen moments of past eruptions suspended mid-air. Black glass walls with embedded lava veins glowing orange. Ancient volcanic artifacts, hourglasses filled with ash. Mysterious guardian figure silhouette. Warm dramatic lighting, ethereal atmosphere, fictional mystical space.",
+      "negative": "floor plan, blueprint, top-down, exterior",
+      "generated_image": "output\\floorplan_images\\2026-05-03\\02_メインルーム内観.png"
+    }
+  ],
+  "captions": {
+    "instagram": "🌋 火口の縁に建つ、時を司る者の住処\n\n黒曜石の壁が溶岩の光を映し\n七つの部屋が円を描いて並ぶ\n\n時間巻き戻し室で過去の噴火を見つめ\n次元の裂け目から来訪者を迎える\n\nこの家は過去と未来を繋ぐ\n永遠に燃え続ける結節点",
+    "x": "🌋活火山の火口に建つ円形の邸宅。黒曜石の壁、溶岩の光、灰の空。時間を巻き戻す部屋と次元の裂け目を持つ、火山の守護者の住処を設計しました。"
+  },
+  "hashtags": {
+    "jp": [
+      "#架空間取り図",
+      "#ファンタジー建築",
+      "#異世界住宅",
+      "#火山島",
+      "#黒曜石の城",
+      "#間取り図イラスト"
+    ],
+    "en": [
+      "#FantasyFloorPlan",
+      "#ImaginaryArchitecture",
+      "#WorldBuilding",
+      "#VolcanicDwelling",
+      "#ObsidianCastle",
+      "#FictionalPlaces"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "generated_at": "2026-05-08T22:02:10.837635",
+    "target_date": "2026-05-06",
+    "settings": {
+      "theme_name": "雲海神殿",
+      "theme_desc": "霧と雲の中に浮かぶ古代神殿",
+      "theme_mood": "misty temple, cloud sea, ancient pillars, divine light",
+      "shape_name": "六角形",
+      "shape_desc": "hexagonal floor plan, honeycomb-like room arrangement",
+      "rooms": "霊廟、光の祭壇、静寂の間、時間の部屋、鏡の回廊、記憶格納庫、霊力溜め、封印の間"
+    }
+  },
+  "concept": {
+    "theme": "雲海神殿",
+    "shape": "六角形",
+    "resident": "千年の眠りから目覚めた神官アエテル。彼女は失われた記憶を取り戻すため、この神殿で時間と霊力の研究を続けている。",
+    "story": "かつてこの神殿は天界と地上を繋ぐ門として機能していた。大崩落により雲海の中へ沈んだ後も、神殿は霧の中で静かに浮遊し続けている。今もなお、封印の間には解かれぬ扉があり、その向こうに何があるのか知る者はいない。"
+  },
+  "image_prompts": [
+    {
+      "scene": "間取り図（俯瞰）",
+      "style": "fantasy_illustration",
+      "prompt_en": "Fantasy architectural floor plan of a fictional cloud temple, hexagonal layout with honeycomb room arrangement, top-down view. Rooms labeled in elegant script: Mausoleum at center, Altar of Light, Chamber of Silence, Room of Time, Mirror Corridor, Memory Archive, Spirit Reservoir, Sealed Chamber. Ethereal blue and gold color palette, misty edges, divine light rays, ancient rune decorations, floating clouds around edges. Ornate borders with celestial motifs. Stylized illustrated map aesthetic.",
+      "negative": "photo, realistic, 3D render, dark background",
+      "generated_image": "output\\floorplan_images\\2026-05-06\\00_間取り図_俯瞰.png"
+    },
+    {
+      "scene": "外観",
+      "style": "fantasy_illustration",
+      "prompt_en": "Majestic ancient temple floating in a vast sea of clouds, hexagonal structure with towering marble pillars, divine golden light piercing through mist. Ethereal atmosphere with soft whites, silvers, and pale blues. Ornate carvings on stone walls, floating stairs dissolving into fog. Dreamlike fantasy illustration style, cinematic composition, mystical and sacred ambiance.",
+      "negative": "floor plan, blueprint, top-down, interior",
+      "generated_image": "output\\floorplan_images\\2026-05-06\\01_外観.png"
+    },
+    {
+      "scene": "メインルーム内観",
+      "style": "fantasy_illustration",
+      "prompt_en": "Interior of the Altar of Light in a cloud temple, hexagonal chamber with tall ancient pillars. Beams of divine light streaming through ceiling oculus, illuminating a crystalline altar. Floating spirit orbs, misty atmosphere, marble floors reflecting golden light. A lone priestess figure in white robes standing before the altar. Ethereal fantasy illustration, sacred and serene mood.",
+      "negative": "floor plan, blueprint, top-down, exterior",
+      "generated_image": "output\\floorplan_images\\2026-05-06\\02_メインルーム内観.png"
+    }
+  ],
+  "captions": {
+    "instagram": "雲海に浮かぶ、忘れられた神殿。\n\n六角形の間取りには、霊廟を中心に光の祭壇、封印の間など八つの聖域が配されている。\n\n千年の眠りから目覚めた神官は、今日も失われた記憶を求めて鏡の回廊を歩く。\n\nあなたなら、どの部屋を訪れたい？",
+    "x": "雲海に浮かぶ架空の神殿を設計しました。六角形の間取りに八つの聖域。霊廟、光の祭壇、封印の間…千年の眠りから目覚めた神官が住むこの場所、どの部屋が気になりますか？"
+  },
+  "hashtags": {
+    "jp": [
+      "#架空間取り図",
+      "#ファンタジー建築",
+      "#異世界住宅",
+      "#空想建築",
+      "#雲海神殿",
+      "#間取り図イラスト"
+    ],
+    "en": [
+      "#FantasyFloorPlan",
+      "#ImaginaryArchitecture",
+      "#WorldBuilding",
+      "#FantasyArt",
+      "#CloudTemple",
+      "#FictionalSpaces"
+    ]
+  }
+}

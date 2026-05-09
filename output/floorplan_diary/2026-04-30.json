@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "generated_at": "2026-05-08T21:50:39.424535",
+    "target_date": "2026-04-30",
+    "settings": {
+      "theme_name": "バイオパンク",
+      "theme_desc": "生体技術で建築された有機的な近未来都市",
+      "theme_mood": "biopunk, organic machinery, flesh walls, bio-luminescent tubes",
+      "shape_name": "入れ子構造",
+      "shape_desc": "rooms within rooms, nested boxes of decreasing size",
+      "rooms": "静寂の間、香りの庭、時計工房、錬金釜の間、時間結晶展示室、植物の寝室、食事の広間"
+    }
+  },
+  "concept": {
+    "theme": "バイオパンク",
+    "shape": "入れ子構造",
+    "resident": "時間生物学者のエリナ・ヴォーン。彼女は自身の体内時計を建物と同期させ、家と共に脈動しながら暮らしている。",
+    "story": "この有機建築は50年前に播種された一粒の「建築種子」から成長した。最も内側の部屋に到達するには、7層の生きた壁を通過しなければならない。住人エリナは毎朝、家の心臓部である時間結晶展示室で家の鼓動を確認することから一日を始める。"
+  },
+  "image_prompts": [
+    {
+      "scene": "間取り図（俯瞰）",
+      "style": "fantasy_illustration",
+      "prompt_en": "Fantasy floor plan illustration, top-down view, biopunk nested structure with concentric organic rooms. Outer layer: 'Dining Hall' with vein-like corridors. Middle layers: 'Silent Chamber', 'Scent Garden', 'Clockwork Workshop', 'Alchemy Cauldron Room'. Innermost core: 'Time Crystal Gallery', 'Botanical Bedroom'. Bio-luminescent tubes connecting rooms, flesh-colored walls with pulsing arteries, glowing green labels. Rich purple, pink, cyan palette. Decorative organic borders, cell-like patterns. Fictional dwelling.",
+      "negative": "photo, realistic, 3D render, dark background",
+      "generated_image": "output\\floorplan_images\\2026-04-30\\00_間取り図_俯瞰.png"
+    },
+    {
+      "scene": "外観",
+      "style": "fantasy_illustration",
+      "prompt_en": "Biopunk organic building exterior, towering flesh architecture with nested dome structure visible through translucent membrane walls. Bio-luminescent tubes wrapping like glowing veins, organic machinery sprouting from rooftop. Breathing walls with visible capillaries, iridescent pink and purple hues. Surreal near-future cityscape background. Fictional architecture, painterly style, vibrant colors.",
+      "negative": "floor plan, blueprint, top-down, interior",
+      "generated_image": "output\\floorplan_images\\2026-04-30\\01_外観.png"
+    },
+    {
+      "scene": "メインルーム内観",
+      "style": "fantasy_illustration",
+      "prompt_en": "Interior of Time Crystal Gallery, biopunk innermost sanctuary. Floating crystalline structures containing frozen time fragments, surrounded by pulsing flesh walls with embedded bio-luminescent tubes. Organic clockwork mechanisms growing from ceiling, alchemical equipment fused with living tissue. Soft cyan and magenta glow, scientist's personal artifacts. Dreamlike atmosphere, fantasy illustration style.",
+      "negative": "floor plan, blueprint, top-down, exterior",
+      "generated_image": "output\\floorplan_images\\2026-04-30\\02_メインルーム内観.png"
+    }
+  ],
+  "captions": {
+    "instagram": "【架空間取り図 vol.??】\n生きた建築種子から育った有機住居\n\n50年の歳月をかけて成長した\nこの家は7層の入れ子構造\n\n最深部の「時間結晶展示室」には\n家の心臓が静かに脈打っている\n\n住人は家と呼吸を合わせて暮らす\n時間生物学者エリナ・ヴォーン",
+    "x": "播種から50年。生きた壁が脈打ち、生体発光チューブが血管のように走る有機住居。7層の入れ子構造の最深部で、時間生物学者は家の心臓と共に目覚める。これは存在しない誰かの、存在しない家の間取り図。"
+  },
+  "hashtags": {
+    "jp": [
+      "#架空間取り図",
+      "#ファンタジー建築",
+      "#異世界住宅",
+      "#バイオパンク",
+      "#有機建築",
+      "#空想不動産"
+    ],
+    "en": [
+      "#FantasyFloorPlan",
+      "#ImaginaryArchitecture",
+      "#WorldBuilding",
+      "#Biopunk",
+      "#OrganicArchitecture",
+      "#FictionalSpaces"
+    ]
+  }
+}

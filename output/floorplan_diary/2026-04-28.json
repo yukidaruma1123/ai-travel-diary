@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "generated_at": "2026-05-08T21:46:57.282483",
+    "target_date": "2026-04-28",
+    "settings": {
+      "theme_name": "砂糖菓子",
+      "theme_desc": "お菓子と砂糖で作られたメルヘン住居",
+      "theme_mood": "candy architecture, sugar walls, chocolate floors, gingerbread",
+      "shape_name": "DNA螺旋",
+      "shape_desc": "double helix cross-section, two intertwining spiral paths",
+      "rooms": "氷の結晶室、契約の間、錬金釜の間、次元の裂け目、時計工房、逆さまの部屋、拷問の間"
+    }
+  },
+  "concept": {
+    "theme": "砂糖菓子",
+    "shape": "DNA螺旋",
+    "resident": "甘味魔女カラメリア。砂糖結晶の魔法を操り、訪れる者の願いを菓子に封じ込める契約を結ぶ古き存在である。",
+    "story": "この二重螺旋の館は、かつて巨人が残した飴細工の骨格から生まれた。螺旋の一方は甘美な願いを、もう一方は代償を司る。両方の道を歩き終えた者だけが、最上階の氷の結晶室で真の契約を結べるという。"
+  },
+  "image_prompts": [
+    {
+      "scene": "間取り図（俯瞰）",
+      "style": "fantasy_illustration",
+      "prompt_en": "Fantasy floor plan of a candy architecture house in DNA double helix shape, top-down view. Two intertwining spiral paths made of sugar walls and chocolate floors. Rooms labeled in English: Ice Crystal Chamber, Contract Hall, Alchemy Cauldron Room, Dimensional Rift, Clock Workshop, Upside-Down Room, Torture Chamber. Gingerbread structural details, pastel pink and mint color scheme, decorative frosting borders, whimsical candy ornaments. Fictional imaginary building, vibrant illustration style with hand-drawn labels.",
+      "negative": "photo, realistic, 3D render, dark background",
+      "generated_image": "output\\floorplan_images\\2026-04-28\\00_間取り図_俯瞰.png"
+    },
+    {
+      "scene": "外観",
+      "style": "fantasy_illustration",
+      "prompt_en": "Exterior view of a fantastical candy house shaped like a DNA double helix tower. Sugar crystal walls glistening in sunlight, chocolate wafer floors visible through windows, gingerbread framework with royal icing trim. Candy cane spiral staircases wrapping around, lollipop gardens, cotton candy clouds. Pastel dreamscape, meringue roof decorations. Purely fictional imaginary architecture, whimsical storybook illustration style.",
+      "negative": "floor plan, blueprint, top-down, interior",
+      "generated_image": "output\\floorplan_images\\2026-04-28\\01_外観.png"
+    },
+    {
+      "scene": "メインルーム内観",
+      "style": "fantasy_illustration",
+      "prompt_en": "Interior of Ice Crystal Chamber inside a candy house. Walls made of translucent sugar crystals and rock candy formations. Central contract altar of frozen caramel, magical glowing runes made of powdered sugar. Peppermint pillars, chandelier of crystallized honey. Witch's ceremonial space with ancient candy grimoires. Ethereal mint and lavender lighting, fictional magical interior, detailed fantasy illustration.",
+      "negative": "floor plan, blueprint, top-down, exterior",
+      "generated_image": "output\\floorplan_images\\2026-04-28\\02_メインルーム内観.png"
+    }
+  ],
+  "captions": {
+    "instagram": "【架空間取り図 #042】\n砂糖菓子の魔女が住むDNA螺旋の館\n\n二重螺旋の回廊は、願いと代償の道。\n甘い香りに誘われて螺旋を登れば、\n最上階には氷砂糖の契約室が待っている。\n\nあなたは、どちらの螺旋を選びますか？",
+    "x": "DNA螺旋の形をした砂糖菓子の館。甘味魔女カラメリアが住むこの家は、願いの螺旋と代償の螺旋が絡み合う。氷砂糖の契約室で結ぶ約束は、甘くも苦い。"
+  },
+  "hashtags": {
+    "jp": [
+      "#架空間取り図",
+      "#ファンタジー建築",
+      "#異世界住宅",
+      "#お菓子の家",
+      "#間取り図",
+      "#創作建築",
+      "#メルヘン"
+    ],
+    "en": [
+      "#FantasyFloorPlan",
+      "#ImaginaryArchitecture",
+      "#WorldBuilding",
+      "#CandyHouse",
+      "#FictionalArchitecture"
+    ]
+  }
+}

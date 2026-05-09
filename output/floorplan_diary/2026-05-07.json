@@ -1,72 +1,64 @@
 {
   "_meta": {
-    "generated_at": "2026-05-07T19:35:36.121210",
+    "generated_at": "2026-05-08T22:04:11.570745",
     "target_date": "2026-05-07",
     "settings": {
-      "theme_name": "魔法文明",
-      "theme_desc": "魔法と錬金術が発達した中世風世界",
-      "theme_mood": "arcane, mystical, medieval, glowing runes",
-      "shape_name": "クモの巣",
-      "shape_desc": "web-like radial pattern, thin corridors connecting circular nodes",
-      "rooms": "炎の寝室、幻影の回廊、儀式の間、召喚の間、宝物庫、武器庫、食事の広間、入口の間"
+      "theme_name": "深海都市",
+      "theme_desc": "海底に築かれた都市文明",
+      "theme_mood": "underwater, bioluminescent, pressure-sealed, coral",
+      "shape_name": "地下迷宮",
+      "shape_desc": "underground labyrinth, multiple levels connected by staircases",
+      "rooms": "夢見の間、召喚の間、魔力充填室、霊力溜め、偽の宝物庫、儀式の間"
     }
   },
   "concept": {
-    "theme": "魔法文明",
-    "shape": "クモの巣",
-    "resident": "古代魔法を研究する老賢者と、彼に仕える7体の精霊たち。賢者は300年以上この塔に住み、禁断の召喚術の解読に人生を捧げている。",
-    "story": "この塔は千年前、蜘蛛の女神に仕えた魔術師団が建造した儀式施設だった。中央の召喚の間から放射状に伸びる8本の回廊は、8つの魔法元素を司る結界を形成している。現在の住人である老賢者は、この塔の真の目的——異界との門を開く鍵——を解き明かそうとしている。"
+    "theme": "深海都市",
+    "shape": "地下迷宮",
+    "resident": "深海の暗黒に住む盲目の神官魚人「セイレーン・ヴォイド」。彼女は夢を通じて古代の神々と交信し、都市の運命を占う存在である。",
+    "story": "この迷宮は海底火山の噴火で滅びた古代都市の遺構に建てられた。セイレーンは偽の宝物庫で侵入者を欺きながら、真の儀式の間で禁断の召喚を続けている。彼女の魔力充填室には絶滅した発光生物の魂が永遠に閉じ込められ、都市全体を照らす光源となっている。"
   },
   "image_prompts": [
     {
       "scene": "間取り図（俯瞰）",
       "style": "fantasy_illustration",
-      "prompt_en": "Fantasy architectural floor plan, top-down view, web-like radial pattern with central circular Summoning Chamber connected by thin glowing corridors to 8 circular rooms: Flame Bedroom, Illusion Corridor, Ritual Hall, Treasury, Armory, Dining Hall, Entrance Hall. Arcane runes decorating borders, mystical purple and gold color scheme, medieval parchment texture, ornate compass rose, labeled room names in elegant script. Fictional magical tower blueprint.",
+      "prompt_en": "Fantasy floor plan illustration, top-down view of an underwater labyrinth dwelling, multiple levels connected by spiral staircases, bioluminescent coral decorations framing the layout. Rooms labeled in elegant script: Dream Chamber, Summoning Hall, Mana Charging Room, Spirit Reservoir, False Treasury, Ritual Chamber. Pressure-sealed circular doors between sections. Glowing blue and purple color palette, decorative sea creature motifs, bubble patterns, fictional deep-sea architecture. White cream background with ornate borders.",
       "negative": "photo, realistic, 3D render, dark background",
       "generated_image": "output\\floorplan_images\\2026-05-07\\00_間取り図_俯瞰.png"
     },
     {
       "scene": "外観",
       "style": "fantasy_illustration",
-      "prompt_en": "Mystical medieval wizard tower exterior, octagonal spire with web-like architecture, thin stone bridges connecting circular turrets, glowing arcane runes carved into walls, purple magical energy flowing between sections, moonlit night sky, floating crystals, gothic arched windows emitting warm light, mysterious fog at base, fantasy illustration style.",
+      "prompt_en": "Exterior view of a fantastical deep-sea labyrinth structure, massive pressure-sealed dome covered in living coral and bioluminescent anemones. Multiple descending tower sections disappear into ocean floor. Glowing jellyfish float nearby, ancient stone carved with runes. Ethereal blue-green lighting, mystical underwater atmosphere, impossible architecture, fantasy illustration style, vibrant colors.",
       "negative": "floor plan, blueprint, top-down, interior",
       "generated_image": "output\\floorplan_images\\2026-05-07\\01_外観.png"
     },
     {
       "scene": "メインルーム内観",
       "style": "fantasy_illustration",
-      "prompt_en": "Interior of magical Summoning Chamber, circular domed room with intricate arcane circles on floor, eight corridors radiating outward, floating grimoires, glowing runes on obsidian pillars, ethereal spirits hovering, elderly wizard in robes studying ancient texts, purple and amber magical lighting, mystical medieval atmosphere, ornate stone architecture.",
+      "prompt_en": "Interior of the Dream Chamber in a deep-sea sanctuary, curved pressure-sealed walls with porthole windows showing abyssal darkness. Floating bioluminescent orbs illuminate a central meditation pool. Coral throne wrapped in glowing tendrils, ancient tablets floating in water columns. Mystical purple and teal atmosphere, ethereal mist, fantasy illustration, dreamlike quality.",
       "negative": "floor plan, blueprint, top-down, exterior",
       "generated_image": "output\\floorplan_images\\2026-05-07\\02_メインルーム内観.png"
     }
   ],
   "captions": {
-    "instagram": "【架空間取り図】蜘蛛の女神に捧げられた魔術師の塔\n\n中央の召喚の間から8本の回廊が放射状に伸びる、クモの巣のような間取り。\n\n300歳を超える老賢者が7体の精霊と暮らすこの塔には、千年前の秘密が眠っているとか…\n\nあなたならどの部屋に住みたいですか？",
-    "x": "蜘蛛の女神に仕えた魔術師団が建てた塔の間取り図。中央の召喚の間から8つの部屋へ伸びるクモの巣構造。300歳の老賢者が禁断の術を研究中。炎の寝室と宝物庫、どっちがいい？"
+    "instagram": "【架空間取り図】深海都市の地下迷宮\n\n海底3000mに眠る盲目の神官の住処。\n夢見の間で神託を受け、\n召喚の間で禁忌の儀式を行う。\n\n偽の宝物庫は侵入者を永遠に迷わせるための罠。\n本当の秘密は、最深部の儀式の間に。\n\nこの家に住みたい…？",
+    "x": "深海3000mの地下迷宮間取り図。盲目の神官魚人が暮らすこの家には「偽の宝物庫」がある。侵入者を欺くため？それとも…自分自身の欲望を封じるため？"
   },
   "hashtags": {
     "jp": [
       "#架空間取り図",
       "#ファンタジー建築",
       "#異世界住宅",
-      "#魔法使いの家",
-      "#間取り妄想",
-      "#創作建築"
+      "#深海都市",
+      "#空想不動産",
+      "#間取り図好き"
     ],
     "en": [
       "#FantasyFloorPlan",
       "#ImaginaryArchitecture",
       "#WorldBuilding",
-      "#WizardTower",
-      "#FantasyArt",
-      "#MagicalHome"
+      "#UnderwaterCity",
+      "#FantasyArt"
     ]
-  },
-  "_post_results": {
-    "instagram": {
-      "post_id": "18101700109822054",
-      "status": "success"
-    },
-    "posted_at": "2026-05-07T19:37:50.530061"
   }
 }
