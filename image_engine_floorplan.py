@@ -111,13 +111,12 @@ def generate_image(prompt: str, negative: str, api_key: str) -> bytes:
         "Content-Type":  "application/json",
     }
     payload = {
-        "model":           "dall-e-3",
+        "model":           "gpt-image-1",
+        "quality":         "high",
+        "output_format":   "png",
         "prompt":          prompt,
         "n":               1,
         "size":            "1024x1024",
-        "quality":         "hd",
-        "style":           "vivid",   # 架空世界なのでvividで鮮やかに
-        "response_format": "b64_json",
     }
 
     resp = requests.post(
